@@ -3,7 +3,7 @@ import time
 import streamlit as st
 from dotenv import load_dotenv
 import google.generativeai as gen_ai
-from streamlit_extras.add_vertical_space import add_vertical_space
+
 
 # Load environment variables
 load_dotenv()
